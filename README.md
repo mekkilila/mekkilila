@@ -29,6 +29,6 @@ Génération de recettes et décompte de calories [Générateur de recettes](htt
 
 
 ## Contact
-Vous pouvez me joindre par mail ou sur LinkedIn : 
+
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekkilila@yahoo.fr)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lila-mekki-8410a621)
