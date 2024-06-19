@@ -27,6 +27,9 @@ Study and implementation of a coupled rejection sampling mehod [Monte Carlo](htt
 ### Projet python
 Génération de recettes et décompte de calories [Générateur de recettes](https://github.com/mekkilila/Python-2A-Ensae).
 
+### Simulation multi-agent
+Mise en place d'une simulation de système multi-agents proie-prédateur [Simulation proie prédateur](https://github.com/mekkilila/Defi-IA). 
+
 
 ## Contact
 
