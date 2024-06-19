@@ -15,16 +15,16 @@ Deeptimize est une start-up utilisant l'IA au service de l'exploitation de donn�
 ## Projets
 
 
-### [Scénarios prospectifs de mobilité]
+### Scénarios prospectifs de mobilité
 Projet de statistiques appliquées de deuxième année de l'ENSAE, en collaboration avec [EDF](https://www.edf.fr/). Ce projet a pour objectif d'élaborer des scénarios prospectifs de mobilité selon différentes projections afin d'évaluer la demande en électricité au niveau des bornes de recharge pour véhicules électriques [Projet Statapp](https://github.com/mekkilila/StatApp). 
 
-### [Séries temporelles]
+### Séries temporelles
 Analyse d'une série temporelle (indice de production des industries agro-alimentaires), calibration d'un modèle ARMA et prévision [Projet STL](https://github.com/mekkilila/StatApp). 
 
-### [Monte Carlo]
+### Monte Carlo
 Study and implementation of a coupled rejection sampling mehod [Monte Carlo](https://github.com/mekkilila/Monte-Carlo-project).
 
-### [Projet python]
+### Projet python
 Génération de recettes et décompte de calories [Générateur de recettes](https://github.com/mekkilila/Python-2A-Ensae).
 
 
